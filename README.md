@@ -3,5 +3,5 @@ Ho 15 anni
 Faccio la 2 INFORMATICA  
 Questa è la mia prima repository con GitHub
 PROGETTI:
-primo-programma
+primo-programma,
 salvadanaio
